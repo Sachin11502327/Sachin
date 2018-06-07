@@ -1,3 +1,3 @@
 x=input()
-y=(input())
+y=int(input())
 print(x,y)
